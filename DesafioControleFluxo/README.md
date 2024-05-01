@@ -3,6 +3,7 @@ www.dio.me
 
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
+- Resolução por [LetzC](https://github.com/LetzC)
 
 ## Controle de Fluxo - Desafio
 
